@@ -1,0 +1,27 @@
+1. George Washington
+    Years: 1789 - 1797
+    Previous job: Commander-in-Chief of the continental army
+    Party: None
+    Wife: Martha Dandridge
+    Vice President: John Adams
+    Notable events:
+        - Farewell address of 1796: advocated "free security" and warned against involvement in international politics
+        
+2. John Adams
+    Years: 1797 - 1801
+    Previous job: Vice President
+    Party: Federalist
+    Vice President: Thomas Jefferson
+    Wife: Abigail Smith
+    Notable events:
+        - XYZ Affair: Envoy was sent to France to ask for compensation for attacks on American shipping. 
+                      Envoy was kept waiting and France refused to conduct diplomatic business without taking huge bribes
+        
+    
+#. NAME
+    Years: 
+    Previous job: 
+    Party: 
+    Vice President:
+    Wife: 
+    Notable events:
